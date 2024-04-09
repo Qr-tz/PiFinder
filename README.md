@@ -3,6 +3,9 @@ This is PiFinder BETA 0.1.0 by Qr_tz\
 Tested on Windows AMD64\
 Created on GO (golang)
 
+-- Download\
+You can download it in tags on this repository. Last version: v_beta_0.1.0
+
 -- Build\
 Builded on Windows AMD64 for:\
 -- ARCH -- OS\
