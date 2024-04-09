@@ -6,10 +6,10 @@ Created on GO (golang)
 -- Build\
 Builded on Windows AMD64 for:\
 -- ARCH -- OS\
-386        Windows, Linux\
-AMD64      Windows, Linux, Darwin (MacOS and etc)\
-ARM        Windows, Linux\
-ARM64      Windows, Linux, Darwin (MacOS and etc)\
+386 --- Windows, Linux\
+AMD64 --- Windows, Linux, Darwin (MacOS and etc)\
+ARM --- Windows, Linux\
+ARM64 --- Windows, Linux, Darwin (MacOS and etc)
 
 -- Date:\
 08.04.2024 11:46 GMT-4\
