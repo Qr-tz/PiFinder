@@ -12,4 +12,4 @@ ARM --- Windows, Linux\
 ARM64 --- Windows, Linux, Darwin (MacOS and etc)
 
 -- Date:\
-08.04.2024 11:46 GMT-4\
+08.04.2024 11:46 GMT-4
